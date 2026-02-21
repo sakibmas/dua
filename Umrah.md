@@ -14,8 +14,8 @@ Rabbana Atina Fid Dunya Hasanah, wa fil akhirati hasanah, wa qina Azab annar.
 উচ্চারণ : ইন্নাস সাফা ওয়াল মারওয়াতা মিন শাআয়ি রিল্লাহ (Al-Baqarah ২:১৫৮)  
 অর্থ: নিশ্চয়ই ‘সাফা’ এবং ‘মারওয়া’ আল্লাহর নিদর্শনগুলোর অন্যতম
 
-## At the Safa hill
-Allahu akbar, Allahu akbar, Allahu Akbar, wa lillahil hamd.
+## সায়ী চলাকালীন সময়ে
+উচ্চারণ : আল্লাহু আকবার, আল্লাহু আকবার, আল্লাহু আকবার, ওয়ালিল্লাহিল হামদ
 
 ## At the green light
 উচ্চারণ : রাব্বিগফির ওয়ারহাম, ওয়া আন্তাল আ’আজ্জুল আকরাম।
