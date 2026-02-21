@@ -15,4 +15,4 @@ Rabbana Atina Fid Dunya Hasanah, wa fil akhirati hasanah, wa qina Azab annar.
 অর্থ: নিশ্চয়ই ‘সাফা’ এবং ‘মারওয়া’ আল্লাহর নিদর্শনগুলোর অন্যতম
 
 ## At the Safa hill
-llahu akbar, Allahu akbar, Allahu Akbar, wa lillahil hamd.
+Allahu akbar, Allahu akbar, Allahu Akbar, wa lillahil hamd.
