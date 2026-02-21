@@ -7,8 +7,11 @@ At Hajr Al-Aswad: Bimillahi Wallahu Akbar
 Between the Yamani corner and the Hajr Al-Aswad: Rabbana Atina Fid Dunya Hasanah, wa fil akhirati hasanah, wa qina Azab annar.
 
 Al-Baqarah ২:১৫৮
+<div style="text-align: left;">
+  اِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَآئِرِ اللّٰهِ ۚ
+</div>
 
-اِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَآئِرِ اللّٰهِ ۚ 
+ 
 
 Innas safa wal marwata min sha e rillah.
 
