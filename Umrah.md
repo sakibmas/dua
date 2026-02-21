@@ -11,6 +11,7 @@ Bimillahi Wallahu Akbar
 Rabbana Atina Fid Dunya Hasanah, wa fil akhirati hasanah, wa qina Azab annar.
 
 Al-Baqarah ২:১৫৮
-Innas safa wal marwata min sha e rillah.
+Innas safa wal marwata min sha e rillah.  
+অর্থ: নিশ্চয়ই ‘সাফা’ এবং ‘মারওয়া’ আল্লাহর নিদর্শনগুলোর অন্যতম
 
 At the Safa hill: Allahu akbar, Allahu akbar, Allahu Akbar, wa lillahil hamd.
