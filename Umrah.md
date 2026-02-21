@@ -1,3 +1,4 @@
+# নিয়ত
 Labbayk allahumma Umratan
 
 # Talbiyah
