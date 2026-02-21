@@ -9,7 +9,6 @@ Between the Yamani corner and the Hajr Al-Aswad: Rabbana Atina Fid Dunya Hasanah
 Al-Baqarah ২:১৫৮
 <div style="text-align: left;" dir="ltr">
   ۞ اِنَّ الصَّفَا وَالۡمَرۡوَةَ مِنۡ شَعَآٮِٕرِ اللّٰهِۚ فَمَنۡ
-                                                                                                                                                                                                                                                                                        اِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَآئِرِ اللّٰهِ ۚ
 </div>
 
  
