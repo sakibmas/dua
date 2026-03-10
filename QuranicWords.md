@@ -10,4 +10,4 @@
 | আল্লাযীনা | যারা |
 
 
-Source: [কুরআনের শব্দার্থ](https://www.youtube.com/watch?list=PL_bLhRpU0WlWMQ2u2RixV7GmT5AajOIQd)
+Source: [কুরআনের শব্দার্থ](https://www.youtube.com/playlist?list=PL_bLhRpU0WlWMQ2u2RixV7GmT5AajOIQd)
