@@ -3,8 +3,8 @@ Labbayk allahumma Umratan
 
 # Talbiyah
 Labbayk allahumma labbayk,  
-Labbayka la sharika laka labbayk, 
-innal hamda wa ni’mata, 
+Labbayka la sharika laka labbayk,  
+innal hamda wa ni’mata,  
 laka wal mulk, la sharika lak. 
 
 ## At Hajr Al-Aswad
