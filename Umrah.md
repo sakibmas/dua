@@ -3,7 +3,7 @@ Labbayk allahumma Umratan
 
 # Talbiyah
 Labbayk allahumma labbayk,  
-Labbayka la sharika laka labbayk,  
+Labbayk ala sharika laka labbayk,  
 innal hamda wa ni’mata,  
 laka wal mulk, la sharika lak. 
 
