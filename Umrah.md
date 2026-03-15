@@ -2,7 +2,10 @@
 Labbayk allahumma Umratan
 
 # Talbiyah
-Labbayka llahumma labbayk, Labbayka la sharika laka labbayk, innal hamda wa ni’mata, laka wal mulk, la sharika lak. 
+Labbayk allahumma labbayk,  
+Labbayka la sharika laka labbayk, 
+innal hamda wa ni’mata, 
+laka wal mulk, la sharika lak. 
 
 ## At Hajr Al-Aswad
 Bimillahi Wallahu Akbar
