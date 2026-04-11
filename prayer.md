@@ -4,4 +4,7 @@
 | Atina | Grant us |
 | Fi-dunya | In this world |
 | Hasanatan | Goodness |
-Wa-fil Akhirati: And in the HereafterHasanatan: Good / GoodnessWa-qina: And protect us'Adhaban-nar: [From] The punishment of the Fire
+| Wa-fil Akhirati | And in the Hereafter |
+| Hasanatan | Goodness |
+| Wa-qina | And protect us |
+| Adhaban-nar | From the punishment of the Fire |
