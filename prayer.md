@@ -6,9 +6,10 @@ Al-Baqarah 2:201
 |-----|-----|
 | Rabbana | Our Lord |
 | Atina | Grant us |
-| Fi-dunya | In this world |
+| Fi-duniya | In this world |
 | Hasanatan | Goodness |
-| Wa-fil Akhirati | And in the Hereafter |
+| Wa-fil | And in |
+| Akhirati | the Hereafter |
 | Hasanatan | Goodness |
 | Wa-qina | And protect us |
 | Adhaban-nar | From the punishment of the Fire |
