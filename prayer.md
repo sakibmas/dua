@@ -9,7 +9,7 @@ Al-Baqarah 2:201
 | Fi-duniya | In this world |
 | Hasanatan | Goodness |
 | Wa-fil | And in |
-| Akhirati | the Hereafter |
+| Akhirati | The hereafter |
 | Hasanatan | Goodness |
 | Wa-qina | And protect us |
 | Adhaban-nar | From the punishment of the Fire |
