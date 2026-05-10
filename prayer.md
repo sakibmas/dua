@@ -56,18 +56,6 @@ Al-Baqarah 2:201
 | **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger[span_9](start_span)[span_9](end_span) |
 
 # Prayer Recitations (Salah)
-
-### 1. At-Tahiyyat (Tashahhud)
-
-| Transliteration | English Meaning |
-| :--- | :--- |
-| *At-tahiyyatu lillahi was-salawatu wat-tayyibatu* | All greetings, prayers, and pure deeds are for Allah. |
-| *As-salamu 'alayka ayyuhan-nabiyyu* | Peace be upon you, O Prophet, |
-| *wa rahmatullahi wa barakatuhu* | and the mercy of Allah and His blessings. |
-| *As-salamu 'alayna wa 'ala 'ibadillahis-salihin* | Peace be upon us and upon the righteous servants of Allah. |
-| *Ashhadu an la ilaha illallahu wahdahu la sharika lah* | I bear witness that there is no god except Allah, alone without partner, |
-| *wa ashhadu anna Muhammadan 'abduhu wa rasuluhu* | and I bear witness that Muhammad is His servant and His messenger. |
-
 ### 2. Durood-e-Ibrahim (Salawat)
 
 | Transliteration | English Meaning |
