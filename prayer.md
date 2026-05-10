@@ -55,3 +55,35 @@ Al-Baqarah 2:201
 | **عَبْدُهُ** | *abduhu* | (is) His servant[span_8](start_span)[span_8](end_span) |
 | **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger[span_9](start_span)[span_9](end_span) |
 
+# Prayer Recitations (Salah)
+
+### 1. At-Tahiyyat (Tashahhud)
+
+| Transliteration | English Meaning |
+| :--- | :--- |
+| *At-tahiyyatu lillahi was-salawatu wat-tayyibatu* | All greetings, prayers, and pure deeds are for Allah. |
+| *As-salamu 'alayka ayyuhan-nabiyyu* | Peace be upon you, O Prophet, |
+| *wa rahmatullahi wa barakatuhu* | and the mercy of Allah and His blessings. |
+| *As-salamu 'alayna wa 'ala 'ibadillahis-salihin* | Peace be upon us and upon the righteous servants of Allah. |
+| *Ashhadu an la ilaha illallahu wahdahu la sharika lah* | I bear witness that there is no god except Allah, alone without partner, |
+| *wa ashhadu anna Muhammadan 'abduhu wa rasuluhu* | and I bear witness that Muhammad is His servant and His messenger. |
+
+### 2. Durood-e-Ibrahim (Salawat)
+
+| Transliteration | English Meaning |
+| :--- | :--- |
+| *Allahumma salli 'ala Muhammadin wa 'ala ali Muhammad* | O Allah, send grace and honour on Muhammad and on the family of Muhammad |
+| *kama sallayta 'ala Ibrahima wa 'ala ali Ibrahima* | as You sent grace and honour on Ibrahim and on the family of Ibrahim, |
+| *innaka Hamidun Majid* | surely You are Praiseworthy, Most Glorious. |
+| *Allahumma barik 'ala Muhammadin wa 'ala ali Muhammad* | O Allah, send blessings on Muhammad and on the family of Muhammad |
+| *kama barakta 'ala Ibrahima wa 'ala ali Ibrahima* | as You sent blessings on Ibrahim and on the family of Ibrahim, |
+| *innaka Hamidun Majid* | surely You are Praiseworthy, Most Glorious. |
+
+### 3. Concluding Dua (Dua Masura)
+
+| Transliteration | English Meaning |
+| :--- | :--- |
+| *Allahumma inni zalamtu nafsi zulman kathira* | O Allah, I have greatly wronged myself, |
+| *wa la yaghfiruz-zunuba illa Anta* | and no one forgives sins except You. |
+| *faghfir-li maghfiratan min 'indika warhamni* | So grant me forgiveness from You and have mercy on me. |
+| *innaka Antal-Ghafurur-Rahim* | Surely You are the Oft-Forgiving, Most Merciful. |
