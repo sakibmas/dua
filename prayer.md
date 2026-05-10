@@ -41,13 +41,17 @@ Al-Baqarah 2:201
 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **أَشْهَدُ** | *Ashhadu* | I bear witness |[span_17](start_span)[span_17](end_span)
-| **أَنْ** | *an* | that |[span_18](start_span)[span_18](end_span)
-| **لَا إِلَهَ** | *la ilaha* | (there is) no god |[span_19](start_span)[span_19](end_span)
-| **إِلَّا** | *illa* | except |[span_20](start_span)[span_20](end_span)
-| **اللَّهُ** | *Allahu* | Allah |[span_21](start_span)[span_21](end_span)
-| **وَأَشْهَدُ** | *wa ashhadu* | and I bear witness |[span_22](start_span)[span_22](end_span)
-| **أَنَّ** | *anna* | that |[span_23](start_span)[span_23](end_span)
-| **مُحَمَّدًا** | *Muhammadan* | Muhammad |[span_24](start_span)[span_24](end_span)
-| **عَبْدُهُ** | *abduhu* | (is) His servant |[span_25](start_span)[span_25](end_span)
-| **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger |[span_26](start_span)[span_26](end_span)
+| **أَشْهَدُ** | *Ashhadu* | I bear witness[span_0](start_span)[span_0](end_span) |
+| **أَنْ** | *an* | that[span_1](start_span)[span_1](end_span) |
+| **لَا إِلَهَ** | *la ilaha* | (there is) no god[span_2](start_span)[span_2](end_span) |
+| **إِلَّا** | *illa* | except[span_3](start_span)[span_3](end_span) |
+| **اللَّهُ** | *Allahu* | Allah[span_4](start_span)[span_4](end_span) |
+| **وَحْدَهُ** | *wahdahu* | alone |
+| **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
+| **لَهُ** | *lahu* | for Him |
+| **وَأَشْهَدُ** | *wa ashhadu* | and I bear witness[span_5](start_span)[span_5](end_span) |
+| **أَنَّ** | *anna* | that[span_6](start_span)[span_6](end_span) |
+| **مُحَمَّدًا** | *Muhammadan* | Muhammad[span_7](start_span)[span_7](end_span) |
+| **عَبْدُهُ** | *abduhu* | (is) His servant[span_8](start_span)[span_8](end_span) |
+| **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger[span_9](start_span)[span_9](end_span) |
+
