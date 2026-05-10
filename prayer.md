@@ -75,3 +75,70 @@ Al-Baqarah 2:201
 | *wa la yaghfiruz-zunuba illa Anta* | and no one forgives sins except You. |
 | *faghfir-li maghfiratan min 'indika warhamni* | So grant me forgiveness from You and have mercy on me. |
 | *innaka Antal-Ghafurur-Rahim* | Surely You are the Oft-Forgiving, Most Merciful. |
+
+
+### Durood-e-Ibrahim (Salawat)
+
+| Arabic | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **اللَّهُمَّ** | *Allahumma* | O Allah |
+| **صَلِّ** | *salli* | send grace/honour |
+| **عَلَى** | *ala* | upon |
+| **مُحَمَّدٍ** | *Muhammadin* | Muhammad |
+| **وَعَلَى** | *wa ala* | and upon |
+| **آلِ** | *ali* | (the) family |
+| **مُحَمَّدٍ** | *Muhammadin* | (of) Muhammad |
+| **كَمَا** | *kama* | as |
+| **صَلَّيْتَ** | *sallayta* | You sent grace |
+| **عَلَى** | *ala* | upon |
+| **إِبْرَاهِيمَ** | *Ibrahima* | Ibrahim |
+| **وَعَلَى** | *wa ala* | and upon |
+| **آلِ** | *ali* | (the) family |
+| **إِبْرَاهِيمَ** | *Ibrahima* | (of) Ibrahim |
+| **إِنَّكَ** | *innaka* | indeed You (are) |
+| **حَمِيدٌ** | *Hamidun* | Praiseworthy |
+| **مَجِيدٌ** | *Majidun* | Glorious |
+| **اللَّهُمَّ** | *Allahumma* | O Allah |
+| **بَارِكْ** | *barik* | send blessings |
+| **عَلَى** | *ala* | upon |
+| **مُحَمَّدٍ** | *Muhammadin* | Muhammad |
+| **وَعَلَى** | *wa ala* | and upon |
+| **آلِ** | *ali* | (the) family |
+| **مُحَمَّدٍ** | *Muhammadin* | (of) Muhammad |
+| **كَمَا** | *kama* | as |
+| **بَارَكْتَ** | *barakta* | You sent blessings |
+| **عَلَى** | *ala* | upon |
+| **إِبْرَاهِيمَ** | *Ibrahima* | Ibrahim |
+| **وَعَلَى** | *wa ala* | and upon |
+| **آلِ** | *ali* | (the) family |
+| **إِبْرَاهِيمَ** | *Ibrahima* | (of) Ibrahim |
+| **إِنَّكَ** | *innaka* | indeed You (are) |
+| **حَمِيدٌ** | *Hamidun* | Praiseworthy |
+| **مَجِيدٌ** | *Majidun* | Glorious |
+
+### Dua Masura
+
+| Arabic | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **اللَّهُمَّ** | *Allahumma* | O Allah |
+| **إِنِّي** | *inni* | indeed I |
+| **ظَلَمْتُ** | *zalamtu* | (have) wronged |
+| **نَفْسِي** | *nafsi* | myself |
+| **ظُلْمًا** | *zulman* | (with) wronging |
+| **كَثِيرًا** | *kathiran* | great/much |
+| **وَلَا** | *wa la* | and not |
+| **يَغْفِرُ** | *yaghfiru* | (can) forgive |
+| **الذُّنُوبَ** | *az-zunuba* | the sins |
+| **إِلَّا** | *illa* | except |
+| **أَنْتَ** | *Anta* | You |
+| **فَاغْفِرْ** | *faghfir* | so forgive |
+| **لِي** | *li* | me |
+| **مَغْفِرَةً** | *maghfiratan* | (with) forgiveness |
+| **مِنْ** | *min* | from |
+| **عِنْدِكَ** | *indika* | Yourself |
+| **وَارْحَمْنِي** | *warhamni* | and have mercy on me |
+| **إِنَّكَ** | *innaka* | indeed You (are) |
+| **أَنْتَ** | *Antal* | You |
+| **الْغَفُورُ** | *Ghafurur* | (the) Oft-Forgiving |
+| **الرَّحِيمُ** | *Rahim* | (the) Most Merciful |
+
