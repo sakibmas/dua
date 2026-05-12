@@ -22,7 +22,7 @@ Al-Baqarah 2:201
 | **التَّحِيَّاتُ** | *At-tahiyyatu* | All greetings |[span_0](start_span)[span_0](end_span)
 | **لِلَّهِ** | *lillahi* | (are) for Allah |[span_1](start_span)[span_1](end_span)
 | **وَالصَّلَاوَاتُ** | *was-salawatu* | and all prayers |[span_2](start_span)[span_2](end_span)
-| **وَالطَّيِّبَاتُ** | *wat-tayyibatu* | and all pure words / deeds |[span_3](start_span)[span_3](end_span)
+| **وَالطَّيِّبَاتُ** | *wat-tayyibatu* | and all pure deeds |[span_3](start_span)[span_3](end_span)
 | **السَّلَامُ** | *As-salamu* | Peace |[span_4](start_span)[span_4](end_span)
 | **عَلَيْكَ** | *alayka* | be upon you |[span_5](start_span)[span_5](end_span)
 | **أَيُّهَا** | *ayyuha* | O |[span_6](start_span)[span_6](end_span)
@@ -41,7 +41,7 @@ Al-Baqarah 2:201
 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **أَشْهَدُ** | *Ashhadu* | I bear witness[span_0](start_span)[span_0](end_span) |
+| **أَشْهَدُ** | *Ashhadu* | I bear witness [span_0](start_span)[span_0](end_span) |
 | **أَنْ** | *an* | that[span_1](start_span)[span_1](end_span) |
 | **لَا إِلَهَ** | *la ilaha* | (there is) no god[span_2](start_span)[span_2](end_span) |
 | **إِلَّا** | *illa* | except[span_3](start_span)[span_3](end_span) |
