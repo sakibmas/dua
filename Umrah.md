@@ -45,7 +45,8 @@ laka wal mulk, la sharika lak.
 | **وَحْدَهُ** | Wahdahu | Alone |
 
 ## At Hajr Al-Aswad
-Bimillahi Wallahu Akbar
+ - First time: Bimillahi Wallahu Akbar
+ - Second to Seventh time: Allahu Akbar
 
 ## Between the Yamani corner and the Hajr Al-Aswad
 Rabbana Atina Fid Dunya Hasanah, wa fil akhirati hasanah, wa qina Azab annar.
