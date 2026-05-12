@@ -1,4 +1,4 @@
-Al-Baqarah 2:201
+# Al-Baqarah 2:201
 
 আর তাদের মধ্যে এমনও আছে, যারা বলে, হে আমাদের রব, আমাদেরকে দুনিয়াতে কল্যাণ দিন। আর আখিরাতেও কল্যাণ দিন এবং আমাদেরকে আগুনের আযাব থেকে রক্ষা করুন।
 
@@ -19,23 +19,24 @@ Al-Baqarah 2:201
 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **التَّحِيَّاتُ** | *At-tahiyyatu* | All greetings |[span_0](start_span)[span_0](end_span)
-| **لِلَّهِ** | *lillahi* | (are) for Allah |[span_1](start_span)[span_1](end_span)
-| **وَالصَّلَاوَاتُ** | *was-salawatu* | and all prayers |[span_2](start_span)[span_2](end_span)
-| **وَالطَّيِّبَاتُ** | *wat-tayyibatu* | and all pure deeds |[span_3](start_span)[span_3](end_span)
-| **السَّلَامُ** | *As-salamu* | Peace |[span_4](start_span)[span_4](end_span)
-| **عَلَيْكَ** | *alayka* | be upon you |[span_5](start_span)[span_5](end_span)
-| **أَيُّهَا** | *ayyuha* | O |[span_6](start_span)[span_6](end_span)
-| **النَّبِيُّ** | *an-nabiyyu* | Prophet |[span_7](start_span)[span_7](end_span)
-| **وَرَحْمَةُ** | *wa rahmatu* | and the mercy |[span_8](start_span)[span_8](end_span)
-| **اللَّهِ** | *Allahi* | of Allah |[span_9](start_span)[span_9](end_span)
-| **وَبَرَكَاتُهُ** | *wa barakatuhu* | and His blessings |[span_10](start_span)[span_10](end_span)
-| **السَّلَامُ** | *As-salamu* | Peace |[span_11](start_span)[span_11](end_span)
-| **عَلَيْنَا** | *alayna* | be upon us |[span_12](start_span)[span_12](end_span)
-| **وَعَلَى** | *wa ala* | and upon |[span_13](start_span)[span_13](end_span)
-| **عِبَادِ** | *ibadi* | the servants |[span_14](start_span)[span_14](end_span)
-| **اللَّهِ** | *Allahi* | of Allah |[span_15](start_span)[span_15](end_span)
-| **الصَّالِحِينَ** | *as-salihin* | (the) righteous |[span_16](start_span)[span_16](end_span)
+| **التَّحِيَّاتُ** | *At-tahiyyatu* | All greetings |
+| **لِلَّهِ** | *lillahi* | (are) for Allah |
+| **وَالصَّلَاوَاتُ** | *was-salawatu* | and all prayers |
+| **وَالطَّيِّبَاتُ** | *wat-tayyibatu* | and all pure deeds |
+| **السَّلَامُ** | *As-salamu* | Peace |
+| **عَلَيْكَ** | *alayka* | be upon you |
+| **أَيُّهَا** | *ayyuha* | O |
+| **النَّبِيُّ** | *an-nabiyyu* | Prophet |
+| **وَرَحْمَةُ** | *wa rahmatu* | and the mercy |
+| **اللَّهِ** | *Allahi* | of Allah |
+| **وَبَرَكَاتُهُ** | *wa barakatuhu* | and His blessings |
+| **السَّلَامُ** | *As-salamu* | Peace |
+| **عَلَيْنَا** | *alayna* | be upon us |
+| **وَعَلَى** | *wa ala* | and upon |
+| **عِبَادِ** | *ibadi* | the servants |
+| **اللَّهِ** | *Allahi* | of Allah |
+| **الصَّالِحِينَ** | *as-salihin* | (the) righteous |
+
 
 ## Part 2: The Testimony (Shahada)
 
