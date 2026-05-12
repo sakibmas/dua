@@ -41,7 +41,7 @@ Al-Baqarah 2:201
 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **أَشْهَدُ** | *Ashhadu* | I bear witness [span_0](start_span)[span_0](end_span) |
+| **أَشْهَدُ** | *Ashhadu* | I bear witness (start_span)[span_0](end_span) |
 | **أَنْ** | *an* | that[span_1](start_span)[span_1](end_span) |
 | **لَا إِلَهَ** | *la ilaha* | (there is) no god[span_2](start_span)[span_2](end_span) |
 | **إِلَّا** | *illa* | except[span_3](start_span)[span_3](end_span) |
