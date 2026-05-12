@@ -37,6 +37,23 @@ Al-Baqarah 2:201
 | **اللَّهِ** | *Allahi* | of Allah |[span_15](start_span)[span_15](end_span)
 | **الصَّالِحِينَ** | *as-salihin* | (the) righteous |[span_16](start_span)[span_16](end_span)
 
+## Part 2: The Testimony (Shahada)
+
+| Arabic | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **أَشْهَدُ** | *Ashhadu* | I bear witness |
+| **أَنْ** | *an* | that |
+| **لَا إِلَهَ** | *la ilaha* | (there is) no god |
+| **إِلَّا** | *illa* | except |
+| **اللَّهُ** | *Allahu* | Allah |
+| **وَحْدَهُ** | *wahdahu* | alone |
+| **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
+| **لَهُ** | *lahu* | for Him |
+| **وَأَشْهَدُ** | *wa ashhadu* | and I bear witness |
+| **أَنَّ** | *anna* | that |
+| **مُحَمَّدًا** | *Muhammadan* | Muhammad |
+| **عَبْدُهُ** | *abduhu* | (is) His servant |
+| **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger |
 
 ## Part 2: The Testimony (Shahada)
 
