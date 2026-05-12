@@ -19,9 +19,9 @@ Al-Baqarah 2:201
 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **التَّحِيَّاتُ** | *At-tahiyyatu* | All greetings / compliments |[span_0](start_span)[span_0](end_span)
+| **التَّحِيَّاتُ** | *At-tahiyyatu* | All greetings |[span_0](start_span)[span_0](end_span)
 | **لِلَّهِ** | *lillahi* | (are) for Allah |[span_1](start_span)[span_1](end_span)
-| **وَالصَّلَاوَاتُ** | *was-salawatu* | and all prayers / acts of worship |[span_2](start_span)[span_2](end_span)
+| **وَالصَّلَاوَاتُ** | *was-salawatu* | and all prayers |[span_2](start_span)[span_2](end_span)
 | **وَالطَّيِّبَاتُ** | *wat-tayyibatu* | and all pure words / deeds |[span_3](start_span)[span_3](end_span)
 | **السَّلَامُ** | *As-salamu* | Peace |[span_4](start_span)[span_4](end_span)
 | **عَلَيْكَ** | *alayka* | be upon you |[span_5](start_span)[span_5](end_span)
