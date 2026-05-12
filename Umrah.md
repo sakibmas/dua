@@ -7,6 +7,43 @@ Labbayk ala sharika laka labbayk,
 innal hamda wa ni’mata,  
 laka wal mulk, la sharika lak. 
 
+## ক্বাবা শরীফ দেখার পর
+### **Part 1: Declaration of Sovereignty**
+
+| Arabic Word | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **لَا** | La | No / None |
+| **إِلٰهَ** | Ilaha | God / Deity |
+| **إِلَّا** | Illa | Except |
+| **اللهُ** | Allah | Allah |
+| **وَحْدَهُ** | Wahdahu | Alone / He is One |
+| **لَا** | La | No |
+| **شَرِيكَ** | Sharika | Partner / Associate |
+| **لَهُ** | Lahu | For Him / To Him |
+| **الْمُلْكُ** | Al-Mulk | The Kingdom / Sovereignty |
+| **وَ** | Wa | And |
+| **الْحَمْدُ** | Al-Hamd | All Praise |
+| **هُوَ** | Huwa | He |
+| **عَلَىٰ** | Ala | Over / Upon |
+| **كُلِّ** | Kulli | Every / All |
+| **شَيْءٍ** | Shay-in | Thing |
+| **قَدِيرٌ** | Qadir | All-Powerful / Capable |
+
+---
+
+### **Part 2: Victory and Fulfillment**
+> **Arabic:** لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ
+
+| Arabic Word | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **أَنْجَزَ** | Anjaza | He fulfilled |
+| **وَعْدَهُ** | Wa'dahu | His promise |
+| **نَصَرَ** | Nasara | He helped / granted victory |
+| **عَبْدَهُ** | Abdahu | His servant |
+| **هَزَمَ** | Hazama | He defeated |
+| **الْأَحْزَابَ** | Al-Ahzab | The Confederates / Allies |
+| **وَحْدَهُ** | Wahdahu | Alone |
+
 ## At Hajr Al-Aswad
 Bimillahi Wallahu Akbar
 
