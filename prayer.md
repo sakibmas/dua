@@ -55,42 +55,6 @@ Al-Baqarah 2:201
 | **عَبْدُهُ** | *abduhu* | (is) His servant |
 | **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger |
 
-## Part 2: The Testimony (Shahada)
-
-| Arabic | Transliteration | English Meaning |
-| :--- | :--- | :--- |
-| **أَشْهَدُ** | *Ashhadu* | I bear witness(start_span)[span_0](end_span) |
-| **أَنْ** | *an* | that(start_span)[span_1](end_span) |
-| **لَا إِلَهَ** | *la ilaha* | (there is) no god(start_span)[span_2](end_span) |
-| **إِلَّا** | *illa* | except(start_span)[span_3](end_span) |
-| **اللَّهُ** | *Allahu* | Allah(start_span)[span_4](end_span) |
-| **وَحْدَهُ** | *wahdahu* | alone |
-| **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
-| **لَهُ** | *lahu* | for Him |
-| **وَأَشْهَدُ** | *wa ashhadu* | and I bear witness(start_span)[span_5](end_span) |
-| **أَنَّ** | *anna* | that(start_span)[span_6](end_span) |
-| **مُحَمَّدًا** | *Muhammadan* | Muhammad(start_span)[span_7](end_span) |
-| **عَبْدُهُ** | *abduhu* | (is) His servant(start_span)[span_8](end_span) |
-| **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger(start_span)[span_9](end_span) |
-
-## Part 2: The Testimony (Shahada)
-
-| Arabic | Transliteration | English Meaning |
-| :--- | :--- | :--- |
-| **أَشْهَدُ** | *Ashhadu* | I bear witness(start_span)[span_0](end_span) |
-| **أَنْ** | *an* | that(start_span)[span_1](end_span) |
-| **لَا إِلَهَ** | *la ilaha* | (there is) no god(start_span)[span_2](end_span) |
-| **إِلَّا** | *illa* | except(start_span)[span_3](end_span) |
-| **اللَّهُ** | *Allahu* | Allah(start_span)[span_4](end_span) |
-| **وَحْدَهُ** | *wahdahu* | alone |
-| **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
-| **لَهُ** | *lahu* | for Him |
-| **وَأَشْهَدُ** | *wa ashhadu* | and I bear witness(start_span)[span_5](end_span) |
-| **أَنَّ** | *anna* | that(start_span)[span_6](end_span) |
-| **مُحَمَّدًا** | *Muhammadan* | Muhammad(start_span)[span_7](end_span) |
-| **عَبْدُهُ** | *abduhu* | (is) His servant(start_span)[span_8](end_span) |
-| **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger(start_span)[span_9](end_span) |
-
 ## Durood-e-Ibrahim (Salawat)
 
 | Arabic | Transliteration | English Meaning |
