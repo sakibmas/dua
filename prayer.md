@@ -55,24 +55,6 @@ Al-Baqarah 2:201
 | **عَبْدُهُ** | *abduhu* | (is) His servant(start_span)[span_8](end_span) |
 | **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger(start_span)[span_9](end_span) |
 
-## Part 2: The Testimony (Shahada)
-
-| Arabic | Transliteration | English Meaning |
-| :--- | :--- | :--- |
-| **أَشْهَدُ** | *Ashhadu* | I bear witness [span_0](start_span)[span_0](end_span) |
-| **أَنْ** | *an* | that [span_1](start_span)[span_1](end_span) |
-| **لَا إِلَهَ** | *la ilaha* | (there is) no god [span_2](start_span)[span_2](end_span) |
-| **إِلَّا** | *illa* | except [span_3](start_span)[span_3](end_span) |
-| **اللَّهُ** | *Allahu* | Allah [span_4](start_span)[span_4](end_span) |
-| **وَحْدَهُ** | *wahdahu* | alone |
-| **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
-| **لَهُ** | *lahu* | for Him |
-| **وَأَشْهَدُ** | *wa ashhadu* | and I bear witness [span_5](start_span)[span_5](end_span) |
-| **أَنَّ** | *anna* | that [span_6](start_span)[span_6](end_span) |
-| **مُحَمَّدًا** | *Muhammadan* | Muhammad [span_7](start_span)[span_7](end_span) |
-| **عَبْدُهُ** | *abduhu* | (is) His servant [span_8](start_span)[span_8](end_span) |
-| **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger [span_9](start_span)[span_9](end_span) |
-
 ## Durood-e-Ibrahim (Salawat)
 
 | Arabic | Transliteration | English Meaning |
