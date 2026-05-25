@@ -40,10 +40,12 @@
 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **لَبَّيْكَ** | *Labbayk* | Here I am (at Your service) |
+| **لَبَّيْكَ** | Labbayk* | Here I am |
 | **اللَّهُمَّ** | *Allahumma* | O Allah |
-| **لَبَّيْكَ** | *labbayk* | here I am |
-| **لَا شَرِيكَ لَكَ** | *la sharika laka* | You have no partner |
+ | *labbayk* | here I am | **لَبَّيْكَ** ।
+ | **لَبَّيْكَ** | *labbayk* | here I am |
+| **لَا شَرِيكَ لَكَ** la sharika laka* | You ।
+have no partner |
 | **لَبَّيْكَ** | *labbayk* | here I am |
 | **إِنَّ الْحَمْدَ** | *innal-hamda* | Indeed, all praise |
 | **وَالنِّعْمَةَ** | *wan-ni'mata* | and (all) blessings |
