@@ -35,12 +35,12 @@
 | **قَدِيرٌ** | *qadir* | All-Powerful / Omnipotent |
 
 ---
-
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
 | **لَبَّيْكَ** | *Labbayk* | Here I am |
 | **اللَّهُمَّ** | *Allahumma* | O Allah |
 | **لَبَّيْكَ** | *labbayk* | here I am |
+| **لَبَّيْكَ** | *Labbayk* | Here I am |
 | **لَا شَرِيكَ لَكَ** | *la sharika laka* | You have no partner |
 | **لَبَّيْكَ** | *labbayk* | here I am |
 | **إِنَّ الْحَمْدَ** | *innal-hamda* | Indeed, all praise |
@@ -48,8 +48,6 @@
 | **لَكَ** | *laka* | are Yours |
 | **وَالْمُلْكَ** | *wal-mulka* | and (all) sovereignty |
 | **لَا شَرِيكَ لَكَ** | *la sharika laka* | You have no partner |
-
----
 
 ### 3. A Common Dua for Forgiveness
 
