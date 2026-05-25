@@ -36,16 +36,12 @@
 
 ---
 
-### 2. The Talbiyah
-
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **لَبَّيْكَ** | Labbayk* | Here I am |
+| **لَبَّيْكَ** | *Labbayk* | Here I am |
 | **اللَّهُمَّ** | *Allahumma* | O Allah |
- | *labbayk* | here I am | **لَبَّيْكَ** ।
- | **لَبَّيْكَ** | *labbayk* | here I am |
-| **لَا شَرِيكَ لَكَ** la sharika laka* | You ।
-have no partner |
+| **لَبَّيْكَ** | *labbayk* | here I am |
+| **لَا شَرِيكَ لَكَ** | *la sharika laka* | You have no partner |
 | **لَبَّيْكَ** | *labbayk* | here I am |
 | **إِنَّ الْحَمْدَ** | *innal-hamda* | Indeed, all praise |
 | **وَالنِّعْمَةَ** | *wan-ni'mata* | and (all) blessings |
