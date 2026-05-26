@@ -19,43 +19,45 @@
  - সূর্যাস্তের আগে মিনা ত্যাগ করে মক্কায় আসা।
  - দেশে ফেরার পূর্বে বিদায়ী তাওয়াফ করা।
 
-### 1. The Primary Arafah Dua
-
+## 1. The Primary Arafah Dua
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **لَا إِلَهَ** | La ilaha | (There is) no god |
-| **إِلَّا اللَّهُ** | *ইল্লাল্লাহু | except Allah |
-| **وَحْدَهُ** | *wahdahu* | alone |
-| **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
-| **لَهُ** | *lahu* | for Him |
-| **لَهُ الْمُلْكُ** | *lahul-mulku* | to Him belongs the sovereignty |
-| **وَلَهُ الْحَمْدُ** | *wa lahul-hamdu* | and to Him belongs all praise |
-| **وَهُوَ** | *wa huwa* | and He (is) |
-| **عَلَى كُلِّ شَيْءٍ** | *ala kulli shay'in* | over all things |
-| **قَدِيرٌ** | *qadir* | All-Powerful / Omnipotent |
+| لَا إِلَهَ | লা ইলাহা | (There is) no god |
+| إِلَّا اللَّهُ | ইল্লাল্লাহু | except Allah |
+| وَحْدَهُ | ওয়াহ্দাহু | alone |
+| لَا شَرِيكَ | লা শারীকা | (there is) no partner |
+| لَهُ | লাহু | for Him |
+| لَهُ الْمُلْكُ | লাহুল-মুলকু | to Him belongs the sovereignty |
+| وَلَهُ الْحَمْدُ | ওয়া লাহুল-হামদু | and to Him belongs all praise |
+| وَهُوَ | ওয়া হুয়া | and He (is) |
+| عَلَى كُلِّ شَيْءٍ | ‘আলা কুল্লি শাই’ইন | over all things |
+| قَدِيرٌ | কাদীর | All-Powerful / Omnipotent |
 
 ---
+
+## 2. তালবিয়্যাহ 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **لَبَّيْكَ** | *Labbayk* | Here I am |
-| **اللَّهُمَّ** | *Allahumma* | O Allah |
-| **لَبَّيْكَ** | *labbayk* | here I am |
-| **لَبَّيْكَ** | *Labbayk* | Here I am |
-| **لَا شَرِيكَ لَكَ** | *la sharika laka* | You have no partner |
-| **لَبَّيْكَ** | *labbayk* | here I am |
-| **إِنَّ الْحَمْدَ** | *innal-hamda* | Indeed, all praise |
-| **وَالنِّعْمَةَ** | *wan-ni'mata* | and (all) blessings |
-| **لَكَ** | *laka* | are Yours |
-| **وَالْمُلْكَ** | *wal-mulka* | and (all) sovereignty |
-| **لَا شَرِيكَ لَكَ** | *la sharika laka* | You have no partner |
+| لَبَّيْكَ | লাব্বাইকা | Here I am |
+| اللَّهُمَّ | আল্লাহুম্মা | O Allah |
+| لَبَّيْكَ | লাব্বাইকা | here I am |
+| لَبَّيْكَ | লাব্বাইকা | Here I am |
+| لَا شَرِيكَ لَكَ | লা শারীকা লাকা | You have no partner |
+| لَبَّيْكَ | লাব্বাইকা | here I am |
+| إِنَّ الْحَمْدَ | ইন্নাল-হামদা | Indeed, all praise |
+| وَالنِّعْمَةَ | ওয়ান-নি‘মাতা | and (all) blessings |
+| لَكَ | লাকা | are Yours |
+| وَالْمُلْكَ | ওয়াল-মুলকা | and (all) sovereignty |
+| لَا شَرِيكَ لَكَ | লা শারীকা লাকা | You have no partner |
 
-### 3. A Common Dua for Forgiveness
 
+
+## 3. A Common Dua for Forgiveness
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **اللَّهُمَّ** | *Allahumma* | O Allah |
-| **اغْفِرْ لِي** | *aghfir li* | forgive me |
-| **وَارْحَمْنِي** | *warhamni* | and have mercy on me |
-| **وَاهْدِنِي** | *wahdini* | and guide me |
-| **وَعَافِنِي** | *wa 'afini* | and grant me health/well-being |
-| **وَارْزُقْنِي** | *warzuqni* | and provide for me |
+| اللَّهُمَّ | আল্লাহুম্মা | O Allah |
+| اغْفِرْ لِي | ইগফির লী | forgive me |
+| وَارْحَمْنِي | ওয়ারহামনী | and have mercy on me |
+| وَاهْدِنِي | ওয়াহ্দিনী | and guide me |
+| وَعَافِنِي | ওয়া ‘আফিনী | and grant me health/well-being |
+| وَارْزُقْنِي | ওয়ারযুকনী | and provide for me |
