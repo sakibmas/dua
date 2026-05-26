@@ -58,6 +58,6 @@
 | اللَّهُمَّ | আল্লাহুম্মা | O Allah |
 | اغْفِرْ لِي | ইগফির লী | forgive me |
 | وَارْحَمْنِي | ওয়ারহামনী | and have mercy on me |
-| وَاهْدِنِي | ওয়াহ্দিনী | and guide me |
+| وَاهْدِنِي | ওয়াহদিনী | and guide me |
 | وَعَافِنِي | ওয়া ‘আফিনী | and grant me health/well-being |
 | وَارْزُقْنِي | ওয়ারযুকনী | and provide for me |
