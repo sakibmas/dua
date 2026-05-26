@@ -23,7 +23,7 @@
 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **لَا إِلَهَ** | *La ilaha* | (There is) no god |
+| **لَا إِلَهَ** | La ilaha | (There is) no god |
 | **إِلَّا اللَّهُ** | *ইল্লাল্লাহু | except Allah |
 | **وَحْدَهُ** | *wahdahu* | alone |
 | **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
