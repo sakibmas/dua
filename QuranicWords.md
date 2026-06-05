@@ -8,6 +8,6 @@
 | ইলা | দিকে |
 | আলা | উপরে |
 | আল্লাযীনা | যারা |
-
+| বাহলু | সমুদ্র |
 
 Source: [কুরআনের শব্দার্থ](https://www.youtube.com/playlist?list=PL_bLhRpU0WlWMQ2u2RixV7GmT5AajOIQd)
