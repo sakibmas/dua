@@ -16,7 +16,7 @@
 | **رَبِّنَا** | rabbina | our Lord |
 | **لَمُنْقَلِبُونَ** | lamunqaliboon | will surely return |
 2. The Prayer for the Journey
-Markdown
+
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
 | **اللَّهُمَّ** | Allahumma | O Allah |
@@ -48,7 +48,7 @@ Markdown
 | **فِي** | fee | over |
 | **الأَهْلِ** | al-ahli | the family |
 3. Seeking Protection
-Markdown
+
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
 | **اللَّهُمَّ** | Allahumma | O Allah |
