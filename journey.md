@@ -1,5 +1,5 @@
 1. The Praise and Glorification
-Markdown
+
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
 | **سُبْحَانَ** | Subhana | Glory be to |
