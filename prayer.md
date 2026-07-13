@@ -19,25 +19,22 @@
 
 | Arabic | Transliteration | English Meaning |
 | :--- | :--- | :--- |
-| **التَّحِيَّاتُ** | *At-tahiyyatu* | All greetings |
-| **لِلَّهِ** | *lillahi* | (are) for Allah |
-| **وَالصَّلَاوَاتُ** | *was-salawatu* | and all prayers |
-| **وَالطَّيِّبَاتُ** | *wat-tayyibatu* | and all pure deeds |
-| **السَّلَامُ** | *As-salamu* | Peace |
+| **التَّحِيَّاتُ** | *At-tahiyyatu* | All greetings |
+| **لِلَّهِ** | *lillahi* | (are) for Allah |
+| **وَالصَّلَاوَاتُ** | *was-salawatu* | and all prayers |
+| **وَالطَّيِّبَاتُ** | *wat-tayyibatu* | and all pure deeds |
+| **السَّلَامُ** | *As-salamu* | Peace |
 | **عَلَيْكَ** | *alayka* | be upon you |
-| **أَيُّهَا** | *ayyuha* | O |
-| **النَّبِيُّ** | *an-nabiyyu* | Prophet |
+| **أَيُّهَا النَّبِيُّ** | *ayyuha an-nabiyyu* | O Prophet |
 | **وَرَحْمَةُ** | *wa rahmatu* | and the mercy |
-| **اللَّهِ** | *Allahi* | of Allah |
+| **اللَّهِ** | *Allahi* | of Allah |
 | **وَبَرَكَاتُهُ** | *wa barakatuhu* | and His blessings |
-| **السَّلَامُ** | *As-salamu* | Peace |
+| **السَّلَامُ** | *As-salamu* | Peace |
 | **عَلَيْنَا** | *alayna* | be upon us |
 | **وَعَلَى** | *wa ala* | and upon |
 | **عِبَادِ** | *ibadi* | the servants |
-| **اللَّهِ** | *Allahi* | of Allah |
-| **الصَّالِحِينَ** | *as-salihin* | (the) righteous |
-
-
+| **اللَّهِ** | *Allahi* | of Allah |
+| **الصَّالِحِينَ** | *as-salihin* | (the) righteous |
 ## Part 2: The Testimony (Shahada)
 
 | Arabic | Transliteration | English Meaning |
