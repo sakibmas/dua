@@ -27,7 +27,7 @@
 | **السَّلَامُ** | *As-salamu* | Peace |
 | **عَلَيْكَ** | *alayka* | be upon you |
 | **أَيُّهَا النَّبِيُّ** | *ayyuha an-nabiyyu* | O Prophet |
-| **وَرَحْمَةُ اللَّهِ** | *wa rahmatu Allahi* | and the mercy of Allah |
+| **وَرَحْمَةُ اللَّهِ** | *wa rahmatullahi* | and the mercy of Allah |
 | **وَبَرَكَاتُهُ** | *wa barakatuhu* | and His blessings |
 | **السَّلَامُ** | *As-salamu* | Peace |
 | **عَلَيْنَا** | *alayna* | be upon us |
