@@ -15,7 +15,6 @@
 | Adhaban-nar | From the punishment of the Fire |
 
 # Tashahhud
-# Tashahhud
 ## Part 1: Greetings and Salutations
 
 | Arabic | Transliteration | English Meaning |
@@ -32,9 +31,7 @@
 | **السَّلَامُ** | *As-salamu* | Peace |
 | **عَلَيْنَا** | *alayna* | be upon us |
 | **وَعَلَى** | *wa ala* | and upon |
-| **عِبَادِ** | *ibadi* | the servants |
-| **اللَّهِ** | *Allahi* | of Allah |
-| **الصَّالِحِينَ** | *as-salihin* | (the) righteous |
+| **عِبَادِ اللَّهِ الصَّالِحِينَ** | *ibadillahis-salihin* | the righteous servants of Allah |
 ## Part 2: The Testimony (Shahada)
 
 | Arabic | Transliteration | English Meaning |
