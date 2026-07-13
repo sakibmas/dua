@@ -15,6 +15,7 @@
 | Adhaban-nar | From the punishment of the Fire |
 
 # Tashahhud
+# Tashahhud
 ## Part 1: Greetings and Salutations
 
 | Arabic | Transliteration | English Meaning |
@@ -26,8 +27,7 @@
 | **السَّلَامُ** | *As-salamu* | Peace |
 | **عَلَيْكَ** | *alayka* | be upon you |
 | **أَيُّهَا النَّبِيُّ** | *ayyuha an-nabiyyu* | O Prophet |
-| **وَرَحْمَةُ** | *wa rahmatu* | and the mercy |
-| **اللَّهِ** | *Allahi* | of Allah |
+| **وَرَحْمَةُ اللَّهِ** | *wa rahmatu Allahi* | and the mercy of Allah |
 | **وَبَرَكَاتُهُ** | *wa barakatuhu* | and His blessings |
 | **السَّلَامُ** | *As-salamu* | Peace |
 | **عَلَيْنَا** | *alayna* | be upon us |
