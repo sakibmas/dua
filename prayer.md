@@ -39,17 +39,15 @@
 | **أَشْهَدُ** | *Ashhadu* | I bear witness |
 | **أَنْ** | *an* | that |
 | **لَا إِلَهَ** | *la ilaha* | (there is) no god |
-| **إِلَّا** | *illa* | except |
-| **اللَّهُ** | *Allahu* | Allah |
+| **إِلَّا اللَّهُ** | *illa Allahu* | except Allah |
 | **وَحْدَهُ** | *wahdahu* | alone |
 | **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
 | **لَهُ** | *lahu* | for Him |
 | **وَأَشْهَدُ** | *wa ashhadu* | and I bear witness |
-| **أَنَّ** | *anna* | that |
-| **مُحَمَّدًا** | *Muhammadan* | Muhammad |
+| **أَنَّ** | *anna* | that |
+| **مُحَمَّدًا** | *Muhammadan* | Muhammad |
 | **عَبْدُهُ** | *abduhu* | (is) His servant |
 | **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger |
-
 ## Durood-e-Ibrahim (Salawat)
 
 | Arabic | Transliteration | English Meaning |
