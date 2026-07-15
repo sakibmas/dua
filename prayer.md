@@ -39,7 +39,7 @@
 | **أَشْهَدُ** | *Ashhadu* | I bear witness |
 | **أَنْ** | *an* | that |
 | **لَا إِلَهَ** | *la ilaha* | (there is) no god |
-| **إِلَّا اللَّهُ** | *illa Allahu* | except Allah |
+| **إِلَّا اللَّهُ** | *illallahu* | except Allah |
 | **وَحْدَهُ** | *wahdahu* | alone |
 | **لَا شَرِيكَ** | *la sharika* | (there is) no partner |
 | **لَهُ** | *lahu* | for Him |
