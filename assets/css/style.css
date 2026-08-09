@@ -43,7 +43,14 @@ p, li, td, th, blockquote {
 
 strong {
   font-family: var(--font-stack);
-  font-size: 1.15em;
+  font-size: 1.5em;
+}
+
+/* Headings already carry their own large size; don't compound it
+   with the Arabic up-scaling for bold text nested inside them
+   (e.g. "### **Part 1: ...**" in Umrah.md). */
+h1 strong, h2 strong, h3 strong, h4 strong {
+  font-size: inherit;
 }
 
 em {
@@ -100,7 +107,6 @@ thead th {
 /* 3-column Arabic / Transliteration / Meaning tables */
 table th:first-child, table td:first-child {
   width: 38%;
-  font-size: 1.2em;
 }
 table th:nth-child(2), table td:nth-child(2) {
   width: 27%;
@@ -163,9 +169,5 @@ table th:nth-child(3), table td:nth-child(3) {
 
   a[href]::after {
     content: "";
-  }
-
-  table th:first-child, table td:first-child {
-    font-size: 1.15em;
   }
 }
