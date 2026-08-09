@@ -1,0 +1,171 @@
+/* ===== Font-face: unicode-range dispatch =====
+   Noorehuda only covers Arabic script; Bengali runs fall through to
+   Noto Sans Bengali. Same font-family name lets the browser pick the
+   right source per character with no markup changes needed. */
+@font-face {
+  font-family: 'DuaText';
+  src: url('/assets/fonts/noorehuda.ttf') format('truetype');
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+  font-display: swap;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DuaText';
+  src: local('Noto Sans Bengali');
+  unicode-range: U+0980-09FF;
+  font-display: swap;
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ===== Base typography ===== */
+:root {
+  --font-stack: 'DuaText', 'Noto Sans Bengali', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--font-stack);
+  line-height: 1.9;
+  text-align: left;
+  font-size: 18px;
+  color: #1a1a1a;
+  background: #fdfdfb;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+p, li, td, th, blockquote {
+  text-align: left;
+}
+
+strong {
+  font-family: var(--font-stack);
+  font-size: 1.15em;
+}
+
+em {
+  font-style: italic;
+  color: #555;
+}
+
+a {
+  color: #2a6f4b;
+}
+
+.site-header {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 0;
+}
+
+.site-title {
+  font-weight: 700;
+  font-size: 1.3em;
+  text-decoration: none;
+  color: #1a1a1a;
+}
+
+.site-footer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  color: #777;
+  font-size: 0.9em;
+}
+
+/* ===== Table styling ===== */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  table-layout: fixed;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.6rem 0.8rem;
+  vertical-align: top;
+  overflow-wrap: break-word;
+  word-break: normal;
+}
+
+thead th {
+  background: #f4f1ea;
+  font-weight: 700;
+}
+
+/* 3-column Arabic / Transliteration / Meaning tables */
+table th:first-child, table td:first-child {
+  width: 38%;
+  font-size: 1.2em;
+}
+table th:nth-child(2), table td:nth-child(2) {
+  width: 27%;
+}
+table th:nth-child(3), table td:nth-child(3) {
+  width: 35%;
+}
+
+.page-content {
+  overflow-x: auto;
+}
+
+@media (max-width: 600px) {
+  table { table-layout: auto; }
+  body { font-size: 16px; }
+}
+
+/* ===== Print stylesheet ===== */
+@media print {
+  @page {
+    size: A4;
+    margin: 1.5cm;
+  }
+
+  body {
+    font-size: 13pt;
+    line-height: 1.7;
+    color: #000;
+    background: #fff;
+    max-width: 100%;
+    padding: 0;
+  }
+
+  body, p, li, td, th, blockquote {
+    text-align: left !important;
+  }
+
+  .site-header, .site-footer {
+    display: none;
+  }
+
+  table {
+    width: 100%;
+    page-break-inside: auto;
+  }
+
+  tr, td, th {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  a[href]::after {
+    content: "";
+  }
+
+  table th:first-child, table td:first-child {
+    font-size: 1.15em;
+  }
+}

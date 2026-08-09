@@ -1,3 +1,8 @@
+---
+layout: default
+title: আযান (Adhan)
+---
+
 | Arabic Word | Transliteration | Meaning (Bengali) |
 | :--- | :--- | :--- |
 | **اللَّهُ أَكْبَرُ** | Allahu Akbar | আল্লাহ সবচেয়ে বড় |

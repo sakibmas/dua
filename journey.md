@@ -1,3 +1,8 @@
+---
+layout: default
+title: সফরের দোয়া (Journey)
+---
+
 1. The Praise and Glorification
 
 | Arabic | Transliteration | English Meaning |
@@ -15,6 +20,7 @@
 | **إِلَىٰ** | ila | to |
 | **رَبِّنَا** | rabbina | our Lord |
 | **لَمُنْقَلِبُونَ** | lamunqaliboon | will surely return |
+
 2. The Prayer for the Journey
 
 | Arabic | Transliteration | English Meaning |
@@ -47,6 +53,7 @@
 | **وَالْخَلِيفَةُ** | wal-khalifatu | and the Caretaker / Guardian |
 | **فِي** | fee | over |
 | **الأَهْلِ** | al-ahli | the family |
+
 3. Seeking Protection
 
 | Arabic | Transliteration | English Meaning |

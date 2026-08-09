@@ -1,3 +1,8 @@
+---
+layout: default
+title: নামাজ ও দোয়া (Prayer)
+---
+
 # Al-Baqarah 2:201
 
 আর তাদের মধ্যে এমনও আছে, যারা বলে, হে আমাদের রব, আমাদেরকে দুনিয়াতে কল্যাণ দিন। আর আখিরাতেও কল্যাণ দিন এবং আমাদেরকে আগুনের আযাব থেকে রক্ষা করুন।
@@ -32,6 +37,7 @@
 | **عَلَيْنَا** | *alayna* | be upon us |
 | **وَعَلَى** | *wa ala* | and upon |
 | **عِبَادِ اللَّهِ الصَّالِحِينَ** | *ibadillahis-salihin* | the righteous servants of Allah |
+
 ## Part 2: The Testimony (Shahada)
 
 | Arabic | Transliteration | English Meaning |
@@ -48,6 +54,7 @@
 | **مُحَمَّدًا** | *Muhammadan* | Muhammad |
 | **عَبْدُهُ** | *abduhu* | (is) His servant |
 | **وَرَسُولُهُ** | *wa rasuluhu* | and His messenger |
+
 ## Durood-e-Ibrahim (Salawat)
 
 | Arabic | Transliteration | English Meaning |

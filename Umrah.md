@@ -1,3 +1,8 @@
+---
+layout: default
+title: ওমরাহ (Umrah)
+---
+
 # নিয়ত
 Labbayk allahumma Umratan
 

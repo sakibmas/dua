@@ -1,3 +1,8 @@
+---
+layout: default
+title: কুরআনিক শব্দার্থ (Quranic Words)
+---
+
 | Word | Meaning | 
 |------|---------|
 | ফী   | মধ্যে | 
