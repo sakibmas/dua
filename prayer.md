@@ -19,6 +19,43 @@ title: নামাজ ও দোয়া (Prayer)
 | Wa-qina | And protect us |
 | Adhaban-nar | From the punishment of the Fire |
 
+# রুকু ও সিজদাহর দোয়া
+
+## রুকুর তাসবীহ (Tasbih of Ruku — recited 3 times)
+
+| Arabic | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **سُبْحَانَ** | *Subhana* | Glory be to |
+| **رَبِّيَ** | *Rabbiya* | my Lord |
+| **الْعَظِيمِ** | *al-Azim* | the Most Great |
+
+## রুকু থেকে উঠে দাঁড়ানোর দোয়া (After Ruku, in the standing position)
+
+| Arabic | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **سَمِعَ اللَّهُ** | *Sami' Allahu* | Allah has heard |
+| **لِمَنْ حَمِدَهُ** | *liman hamidah* | the one who praised Him |
+| **رَبَّنَا** | *Rabbana* | Our Lord |
+| **وَلَكَ الْحَمْدُ** | *wa lakal hamd* | and to You is all praise |
+
+## সিজদাহর তাসবীহ (Tasbih of Sijdah — recited 3 times)
+
+| Arabic | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **سُبْحَانَ** | *Subhana* | Glory be to |
+| **رَبِّيَ** | *Rabbiya* | my Lord |
+| **الْأَعْلَى** | *al-A'la* | the Most High |
+
+## দুই সিজদাহর মাঝে বসার দোয়া (Between two Sijdahs, in the sitting position)
+
+| Arabic | Transliteration | English Meaning |
+| :--- | :--- | :--- |
+| **رَبِّ** | *Rabbi* | My Lord |
+| **اغْفِرْ لِي** | *ighfir li* | forgive me |
+| **وَارْحَمْنِي** | *warhamni* | and have mercy on me |
+| **وَاهْدِنِي** | *wahdini* | and guide me |
+| **وَارْزُقْنِي** | *warzuqni* | and grant me sustenance |
+
 # Tashahhud
 ## Part 1: Greetings and Salutations
 
