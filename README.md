@@ -7,5 +7,6 @@
 - [হজ্জ (Hajj)](Hajj.md)
 - [সফরের দোয়া (Journey)](journey.md)
 - [রোজা (Roja)](roja.md)
+- [জানাযা ও অসুস্থতার দোয়া (Janaza & Illness)](janaja.md)
 - [কুরআনিক শব্দার্থ (Quranic Words)](QuranicWords.md)
 - [আরবি বর্ণমালা (Alphabet)](Alphabet.md)
