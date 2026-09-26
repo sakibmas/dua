@@ -1,6 +1,7 @@
 # দোয়া ও প্রার্থনা সংকলন
 
 - [কালিমা (Kalima)](Kalima.md)
+- [ইস্তিগফার (Istighfar)](Istighfar.md)
 - [নামাজ (Prayer — Tashahhud, Durood, Al-Baqarah 2:201)](prayer.md)
 - [আযান ও ইকামত (Adhan & Iqamah)](Adhan.md)
 - [ওমরাহ (Umrah)](Umrah.md)
