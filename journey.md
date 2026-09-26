@@ -1,8 +1,3 @@
----
-layout: default
-title: সফরের দোয়া (Journey)
----
-
 1. The Praise and Glorification
 
 | Arabic | Transliteration | English Meaning |

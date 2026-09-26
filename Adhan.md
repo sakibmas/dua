@@ -1,8 +1,3 @@
----
-layout: default
-title: আযান ও ইকামত (Adhan & Iqamah)
----
-
 # আযান ও ইকামত (Adhan & Iqamah)
 
 - [আযানের বাক্যসমূহ](#adhan)

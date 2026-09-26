@@ -1,8 +1,3 @@
----
-layout: default
-title: দোয়া সংকলন
----
-
 # দোয়া ও প্রার্থনা সংকলন
 
 - [কালিমা (Kalima)](Kalima.md)

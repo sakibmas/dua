@@ -1,8 +1,3 @@
----
-layout: default
-title: কালিমা (Kalima)
----
-
 # ছয় কালিমা (The Six Kalimas)
 
 ## ১ম কালিমা: তাইয়্যেবা (Kalima Tayyibah)
