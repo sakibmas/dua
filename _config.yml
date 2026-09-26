@@ -16,11 +16,3 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - node_modules
-  - vendor
-  - .bundle
